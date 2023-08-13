@@ -15,15 +15,12 @@ I'm a computer science graduate from James Madison University. I'm also a former
 
 ## Tools
 <img align="left" alt="Git Icon" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
-
-
 <img align="left" alt="GCC Icon" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
+<img align="left" alt="GCC Icon" width="40px" src="https://bashlogo.com/img/symbol/png/full_colored_light.png" />
 <img align="left" alt="MySQL" width="40px" src="https://junit.org/junit5/assets/img/junit5-logo.png" />
 <img align="left" alt="MySQL" width="40px" src="https://www.svgrepo.com/show/353943/json.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="MySQL" width="40px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" />
 <img align="left" alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="PyCharm" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" /><br><br>
 
 ## Operating Systems
