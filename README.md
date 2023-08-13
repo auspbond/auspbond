@@ -2,7 +2,7 @@
 
 **`CS Major | Developer/Engineer/Researcher | Ex-Tradesman`**
 
-I'm a computer science graduate from James Madison University. I'm also a former tradesman in commercial HVAC/R. While I enjoyed my time working in the field, I found my true calling in software development. After tinkering with building automation systems software and seeing its impact in the trade, I quickly realized the importance of software in our world. I knew I had to be the person creating software, and I know I can contribute more to humanity by doing so. Thus, I decided to go the whole distance and return to college, majoring in CS. I've been having a blast coding since then.<br><br>
+I'm a computer science graduate from James Madison University. I'm also a former tradesman. While I enjoyed working in the field, I found my true calling in software development. After tinkering with building automation systems software and seeing its impact in the trade, I quickly realized the importance of software in our world. I knew I had to be the person creating software, and I know I can contribute more to humanity by doing so. Thus, I decided to go the whole distance and return to college, majoring in CS. I've been having a blast coding since then.<br><br>
 
 
 ## Languages
