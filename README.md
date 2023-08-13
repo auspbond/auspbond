@@ -1,4 +1,4 @@
-# Austin Bond
+# Hi, I'm Austin
 
 **`CS Major | Software Developer | Ex-Tradesman`**
 
