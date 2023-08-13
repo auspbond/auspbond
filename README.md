@@ -9,19 +9,19 @@ I'm a computer science graduate from James Madison University. I'm also a former
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="C" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-<img align="left" alt="C" width="40px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
+<img align="left" alt="SQL" width="40px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
 <img align="left" alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /><br><br>
 
 ## Tools
 <img align="left" alt="Git Icon" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 <img align="left" alt="GCC Icon" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
-<img align="left" alt="GCC Icon" width="40px" src="https://bashlogo.com/img/symbol/png/full_colored_light.png" />
-<img align="left" alt="MySQL" width="40px" src="https://junit.org/junit5/assets/img/junit5-logo.png" />
-<img align="left" alt="MySQL" width="40px" src="https://www.svgrepo.com/show/353943/json.svg" />
+<img align="left" alt="Bash" width="40px" src="https://bashlogo.com/img/symbol/png/full_colored_light.png" />
+<img align="left" alt="JUnit" width="40px" src="https://junit.org/junit5/assets/img/junit5-logo.png" />
+<img align="left" alt="JSON" width="40px" src="https://www.svgrepo.com/show/353943/json.svg" />
 <img align="left" alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="VSCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="MySQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" /><br><br>
+<img align="left" alt="UML" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" /><br><br>
 
 ## Operating Systems
 <img align="left" alt="Windows" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
