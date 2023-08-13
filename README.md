@@ -9,16 +9,22 @@ I'm a computer science graduate from James Madison University. I'm also a former
 <img align="left" alt="Java" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 <img align="left" alt="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 <img align="left" alt="C" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
-
+<img align="left" alt="C" width="45px" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" />
 <img align="left" alt="HTML" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
 <img align="left" alt="CSS" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /><br><br>
 
 ## Tools
 <img align="left" alt="Git Icon" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
+
+
 <img align="left" alt="GCC Icon" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" />
+<img align="left" alt="MySQL" width="45px" src="https://junit.org/junit5/assets/img/junit5-logo.png" />
+<img align="left" alt="MySQL" width="45px" src="https://www.svgrepo.com/show/353943/json.svg" />
 <img align="left" alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="MySQL" width="45px" src="https://www.eclipse.org/downloads/assets/public/images/logo-eclipse.png" />
 <img align="left" alt="VSCode" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img align="left" alt="PyCharm" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" /><br><br>
+<img align="left" alt="PyCharm" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
+<img align="left" alt="MySQL" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" /><br><br>
 
 ## Operating Systems
 <img align="left" alt="Windows" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
