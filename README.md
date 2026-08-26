@@ -2,9 +2,6 @@
 
 **`CS Major | Developer/Engineer/Researcher | Ex-Tradesman`**
 
-I'm a computer science graduate from James Madison University. I'm also a former tradesman. While I enjoyed working in the field, I found my true calling in software development. After tinkering with building automation systems and seeing its impact in the skilled trades, I quickly realized the importance of software in our world. I knew I had to be the person programming. Thus, I decided to go the whole distance and return to college, majoring in CS. I've been having a blast coding since then.<br><br>
-
-
 ## Languages
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 <img align="left" alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
