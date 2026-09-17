@@ -1,6 +1,6 @@
 # Hi, I'm Austin
 
-**`CS Major | Developer/Engineer/Researcher | Ex-Tradesman`**
+**`Backend developer (Java/Python, AWS) · Building with LLMs on the side · Ex-HVAC tech`**
 
 ## Languages
 <img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
